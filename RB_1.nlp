@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=RB_1
+project.version=8.10
+project.original.version=8.10
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.version=2025.1.1
+product.original.version=2025.1.1
+project.is-open-test-settings-after-upload=false
+project.id=ef63e67d-92ef-40aa-a2d0-952811ad36ab
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
